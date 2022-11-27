@@ -4,7 +4,7 @@
 
 [企业版 Mybatis-Mate 高级特性](https://gitee.com/baomidou/mybatis-mate-examples)
 
-hzg123456
+hzg123456777
 本工程为 MyBatis-Plus 的官方示例，项目结构如下：
 
 - mybatis-plus-sample-quickstart: 快速开始示例
